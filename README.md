@@ -1,6 +1,6 @@
 # Hello, I'm Siva! 👋
 
-I'm a DevOps Engineer with expertise in cloud platforms, containerization, and System Administration. Here's a brief overview of my skills:
+I'm a CLoud DevOps Engineer with expertise in cloud platforms, containerization, and System Administration. Here's a brief overview of my skills:
 
 - **AWS and Azure Cloud Services** ☁️
 - **Docker and Kubernetes** 🐳
